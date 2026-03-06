@@ -239,13 +239,13 @@ Refreshing the page will still show the old message.
 Stop containers:
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
 Rebuild and start again:
 
 ```bash
-docker-compose up -d --build
+docker compose up -d --build
 ```
 
 This rebuilds the Docker image with the updated code.
@@ -278,7 +278,7 @@ services:
 Now restart the services:
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 
