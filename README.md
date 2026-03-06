@@ -1,10 +1,12 @@
 # Dockerized Flask Application with Redis
 
-Hello, my name is Amine.
 
-I am a future Network and Programmable Services Engineer with a strong interest in Linux system administration, networking, and DevOps technologies. I am passionate about building, managing, and automating IT infrastructures using open-source tools and modern practices.
+Hello, my name is **Amine**.
 
-My technical focus is mainly on Linux environments, particularly Red Hat Enterprise Linux, where I develop and test most of my projects. Thanks to my solid foundation in Linux system administration, I prefer working in Red Hat–based environments to design and deploy reliable systems.
+I am a **future Network and Programmable Services Engineer** with a strong interest in **Linux system administration, networking, and DevOps technologies**. I am passionate about building, managing, and automating IT infrastructures using open-source tools and modern practices.
+
+My technical focus is mainly on **Linux environments**, particularly **Red Hat Enterprise Linux**, where I develop and test most of my projects. Thanks to my solid foundation in **Linux system administration**, I prefer working in Red Hat–based environments to design and deploy reliable systems.
+
 
 This project demonstrates how to **containerize a Python Flask application using Docker and Docker Compose** while integrating a **Redis service** for state persistence.
 
